@@ -3,5 +3,5 @@
 * GUI编程(1-2周)
     * 教材
     * 实验教程
-    * 作业1 https://github.com/LauraWen/AI-base/blob/master/Week1.ipynb
-    * 作业2
+    * [作业1](https://github.com/LauraWen/AI-base/blob/master/Week1.ipynb)
+    * [作业2](https://github.com/LauraWen/AI-base/blob/master/Week2.ipynb)
