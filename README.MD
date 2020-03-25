@@ -5,3 +5,6 @@
     * 实验教程
     * [作业1](https://github.com/LauraWen/AI-base/blob/master/Week1.ipynb)
     * [作业2](https://github.com/LauraWen/AI-base/blob/master/Week2.ipynb)
+* 数据获取与分析
+    * 教材
+    * [作业3](https://github.com/LauraWen/AI-base/blob/master/Week3.ipynb)
