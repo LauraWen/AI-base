@@ -8,3 +8,5 @@
 * 数据获取与分析
     * 教材
     * [作业3](https://github.com/LauraWen/AI-base/blob/master/Week3.ipynb)
+    * [作业4](https://github.com/LauraWen/AI-base/blob/master/Week4.ipynb)
+    * [爬虫](https://github.com/LauraWen/AI-base/blob/master/WebSpyder.py)
